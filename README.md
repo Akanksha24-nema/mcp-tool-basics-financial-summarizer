@@ -1,4 +1,4 @@
-# Multi-Agent System Using MCP
+# mcp-tool-basics-financial-summarizer
 
 A simple multi-agent AI system built with the **Model Context Protocol (MCP)**, using a local open-source LLM (Mistral via Ollama). The project demonstrates how to separate data access (via an MCP tool) from reasoning (via an LLM), letting multiple agents share the same standardized data source.
 
